@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cra-demo-todolist/static/css/main.2cce8147.chunk.css",
+    "main.js": "/cra-demo-todolist/static/js/main.520714bb.chunk.js",
+    "main.js.map": "/cra-demo-todolist/static/js/main.520714bb.chunk.js.map",
+    "runtime~main.js": "/cra-demo-todolist/static/js/runtime~main.63a92c20.js",
+    "runtime~main.js.map": "/cra-demo-todolist/static/js/runtime~main.63a92c20.js.map",
+    "static/js/2.b41502e9.chunk.js": "/cra-demo-todolist/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/cra-demo-todolist/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/cra-demo-todolist/index.html",
+    "precache-manifest.d59508754f26fa627659d20b98f34932.js": "/cra-demo-todolist/precache-manifest.d59508754f26fa627659d20b98f34932.js",
+    "service-worker.js": "/cra-demo-todolist/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/cra-demo-todolist/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/cra-demo-todolist/static/media/logo.5d5d9eef.svg"
+  }
+}
