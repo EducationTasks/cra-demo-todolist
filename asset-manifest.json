@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cra-demo-todolist/static/css/main.cb9e985a.chunk.css",
-    "main.js": "/cra-demo-todolist/static/js/main.06cb7dff.chunk.js",
-    "main.js.map": "/cra-demo-todolist/static/js/main.06cb7dff.chunk.js.map",
+    "main.css": "/cra-demo-todolist/static/css/main.74e624b0.chunk.css",
+    "main.js": "/cra-demo-todolist/static/js/main.eadc8db9.chunk.js",
+    "main.js.map": "/cra-demo-todolist/static/js/main.eadc8db9.chunk.js.map",
     "runtime~main.js": "/cra-demo-todolist/static/js/runtime~main.63a92c20.js",
     "runtime~main.js.map": "/cra-demo-todolist/static/js/runtime~main.63a92c20.js.map",
     "static/js/2.3310f33a.chunk.js": "/cra-demo-todolist/static/js/2.3310f33a.chunk.js",
     "static/js/2.3310f33a.chunk.js.map": "/cra-demo-todolist/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/cra-demo-todolist/index.html",
-    "precache-manifest.2356c804d03c506275995860f2bb7f35.js": "/cra-demo-todolist/precache-manifest.2356c804d03c506275995860f2bb7f35.js",
+    "precache-manifest.3198d9ea62710cb308797870db53ab92.js": "/cra-demo-todolist/precache-manifest.3198d9ea62710cb308797870db53ab92.js",
     "service-worker.js": "/cra-demo-todolist/service-worker.js",
-    "static/css/main.cb9e985a.chunk.css.map": "/cra-demo-todolist/static/css/main.cb9e985a.chunk.css.map"
+    "static/css/main.74e624b0.chunk.css.map": "/cra-demo-todolist/static/css/main.74e624b0.chunk.css.map"
   }
 }
