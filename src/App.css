@@ -1,7 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 .App {
   text-align: center;
 }
 
 h1 {
     text-align: center;
+}
+
+.todo-list__container {
+    display: grid;
+    justify-self: center;
+    grid-gap: 10px;
+    max-width: 480px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.todo-list {
+    display: grid;
+    border: 1px solid #000;
+    background-color: lightgrey;
+    justify-content: flex-start;
+}
+
+.user-name {
+    font-weight: bold;
 }
